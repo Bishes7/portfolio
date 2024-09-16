@@ -1,0 +1,44 @@
+body {
+  background-image: url(./softeare\ image.jpg);
+}
+
+h1:hover {
+  font-size: 40px;
+  color: wheat;
+}
+header {
+  background-color: orange;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+
+h2::first-letter {
+  font-size: 30px;
+  color: orange;
+}
+
+h2 {
+  color: white;
+}
+
+p {
+  color: white;
+}
+ul {
+  color: white;
+}
+
+a:hover {
+  color: white;
+  font-size: 30px;
+}
+a {
+  color: white;
+}
+
+footer {
+  background-color: orange;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 25px;
+}
